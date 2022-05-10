@@ -27,7 +27,7 @@ static MppCompat compats[] = {
         MPP_COMPAT_INC_FBC_BUF_SIZE,
         MPP_COMPAT_BOOL,
         1,
-        0,
+        1,
         "increase decoder fbc buffer size",
         &compats[1],
     },
